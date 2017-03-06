@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsAndMethodOverloadin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UlohaGenerikaRudoW", "..\UlohaGenerikaRudoW\UlohaGenerikaRudoW.csproj", "{89345AB6-C0E8-4390-A4E7-A5FB1952CC5C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImmutableCollections_Advanced", "..\ImmutableCollections_Advanced\ImmutableCollections_Advanced.csproj", "{EE19F4DC-6C7B-4443-9F43-86B500FE0E44}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{89345AB6-C0E8-4390-A4E7-A5FB1952CC5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89345AB6-C0E8-4390-A4E7-A5FB1952CC5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89345AB6-C0E8-4390-A4E7-A5FB1952CC5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE19F4DC-6C7B-4443-9F43-86B500FE0E44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE19F4DC-6C7B-4443-9F43-86B500FE0E44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE19F4DC-6C7B-4443-9F43-86B500FE0E44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE19F4DC-6C7B-4443-9F43-86B500FE0E44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
